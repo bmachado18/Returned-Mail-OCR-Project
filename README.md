@@ -6,11 +6,11 @@ The Returned Mail OCR project uses [Tesseract OCR Engine](https://github.com/tes
 
 General Appeal Format:
 
-![general appeal format](images\general_appeal.png)
+![general appeal format](https://github.com/bmachado18/Returned-Mail-OCR-Project/blob/main/images/general_appeal.png)
 
 Law Appeal Format:
 
-![law appeal format](images\law_appeal.png)
+![law appeal format](https://github.com/bmachado18/Returned-Mail-OCR-Project/blob/main/images/law_appeal.png)
 
 ## Installation
 
@@ -32,7 +32,7 @@ Once the process is complete, type "y' to save the output file, or type "n" to c
 
 There is also a gui version. You can run the gui.py file to open the UI. Below is what the GUI looks like:
 
-![main gui controls](images\GUI.PNG)
+![main gui controls](https://github.com/bmachado18/Returned-Mail-OCR-Project/blob/main/images/GUI.PNG)
 
 
 Select the pdf containing the batch of returned appeals, then click the "Scan Files" button to begin the program.
